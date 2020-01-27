@@ -9,22 +9,125 @@ hub.docker.com###truste-consent-content
 
 docs.gitlab.com###CybotCookiebotDialog
 
+www.toolstation.com###cookies-notice
+
 discounthomelighting.co.uk###accept-cookies
+
+tfl.gov.uk###cb-cookieoverlay
+
+www.penguin.co.uk##.cookieAcceptance
 
 delayrepay.thameslinkrailway.com##.banner--message
 delayrepay.thameslinkrailway.com##.hidden-print
 
+www.celebheights.com##.ckl
+
 www.diy.com##[id^=pop-div]
 www.diy.com##body{ overflow-y: auto !important; }
+
+www.screwfix.com##[id^=pop-div]
+www.screwfix.com##[id^=pop-frame]
 
 www.zdnet.com##.fade-in
 www.zdnet.com##.ot-sdk-container > .ot-sdk-row
 
-en.wikipedia.org##.frb-nag
-en.wikipedia.org###frb-nag
+www.digitalspy.com###_evidon-banner
+www.digitalspy.com###_evidon-background
+
+||wikipedia.org##.frb-nag
+||wikipedia.org###frb-nag
+
+www.wickes.co.uk##.cookies-policy__inner
+
+www.paypal.com###gdprCookieContent_wrapper
+
+
+www.oliverbonas.com##.pos-relative.bg-col-w.p-a.w-12
+www.oliverbonas.com##main-overlay
+www.oliverbonas.com##.privacy-settings.z-12.block.w-12.bottom-0.right-0.left-0.pos-fixed
+
+www.mountainwarehouse.com##.c-cookie-notification
+
+www.ncsc.gov.uk##.show.pcf-cookie
+
+www.ikea.com##.toast
+
+www.schuh.co.uk###cookieConsent
+
+www.theguardian.com##.js-site-message-inner.site-message__inner
+
+new.enfield.gov.uk###CybotCookiebotDialogBody
+
+www.urbandictionary.com##.cc-banner
 
 opensource.com##.pane-bean-email-capture
 
 www.works-hub.com##.tracking-popup
+
+hakkasan.com###cookies
+
+||7digital.com##.notice-cookie
+
+www.realtimetrains.co.uk##.cookie-notice
+
+suprafootwear.co.uk##.cc-type-opt-in
+
+www.discogs.com###onetrust-banner-sdk
+www.discogs.com##.fade-in.onetrust-pc-dark-filter
+
+track.dhlparcel.co.uk##.cookies
+
+hackaday.io##.cookie-banner
+hackaday.com##.cookie-notifications
+
+||wordpress.com###eu-cookie-law
+||wordpress.com###actionbar
+
+||blogspot.com###cookieChoiceInfo
+
+www.scottadamssays.com##.cookie-choices-info
+
+oureverydaylife.com##.amp-interactive
+
+www.boschtools.com##.wowPopover
+www.boschtools.com##.privacy_prompt_content
+
+m.facebook.com###mobile_login_bar
+
+www.argos.co.uk##.privacy-prompt-wrapper
+
+www.timeout.com##.qc-cmp-ui-content
+
+docs.aws.amazon.com##.awsui-alert
+
+www.theguardian.com###js-subscription-banner-site-message
+www.theguardian.com###js-first-pv-consent-site-message
+
+www.airbnb.co.uk##.optanon-alert-box-bg
+
+www.chowhound.com###onetrust-banner-sdk
+www.chowhound.com##.fade-in
+
+||camelcamelcamel.com###cmp-ui-iframe
+
+www.thenorthface.co.uk##.cookie-policy
+
+ao.com###aoMessageContent
+
+www.ebay.co.uk###gdpr-banner
+
+www.nationalgeographic.com##.js_ck_banner
+
+aws.amazon.com##.mo-row
+
+||gsmarena.com##.qc-cmp-ui-container
+
+back7.co##.sqs-cookie-banner-v2
+
+f1tv.formula1.com##.cookie-banner
+
+www.entrepreneur.com###noticepolicy
+
+www.radiotimes.com##.js-ad-banner-container
 
 checkmk.com###checkmkCookieNotice
