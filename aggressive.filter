@@ -1,0 +1,9 @@
+! Title: yaMatt Annoyances (Aggressive)
+! Expires: 1 days
+! Issue tracker: https://github.com/yamatt/filter-annoyances/issues
+! License: CC0
+
+! Cookie, GDPR and Privacy modals
+##[id*=cookie]
+##[id*=gdpr]
+##body{ overflow-y: auto !important; }

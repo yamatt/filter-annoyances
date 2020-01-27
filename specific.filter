@@ -1,0 +1,30 @@
+! Title: yaMatt Annoyances (Aggressive)
+! Expires: 1 days
+! Issue tracker: https://github.com/yamatt/filter-annoyances/issues
+! License: CC0
+
+alternativeto.net##.iubenda-cs-content
+
+hub.docker.com###truste-consent-content
+
+docs.gitlab.com###CybotCookiebotDialog
+
+discounthomelighting.co.uk###accept-cookies
+
+delayrepay.thameslinkrailway.com##.banner--message
+delayrepay.thameslinkrailway.com##.hidden-print
+
+www.diy.com##[id^=pop-div]
+www.diy.com##body{ overflow-y: auto !important; }
+
+www.zdnet.com##.fade-in
+www.zdnet.com##.ot-sdk-container > .ot-sdk-row
+
+en.wikipedia.org##.frb-nag
+en.wikipedia.org###frb-nag
+
+opensource.com##.pane-bean-email-capture
+
+www.works-hub.com##.tracking-popup
+
+checkmk.com###checkmkCookieNotice
