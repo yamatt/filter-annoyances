@@ -28,11 +28,15 @@ www.diy.com##body{ overflow-y: auto !important; }
 www.screwfix.com##[id^=pop-div]
 www.screwfix.com##[id^=pop-frame]
 
+www.w3resource.com##.cc_banner
+
 www.zdnet.com##.fade-in
 www.zdnet.com##.ot-sdk-container > .ot-sdk-row
 
 www.digitalspy.com###_evidon-banner
 www.digitalspy.com###_evidon-background
+
+www.techradar.com###cmp-container-id
 
 ||wikipedia.org##.frb-nag
 ||wikipedia.org###frb-nag
@@ -41,6 +45,7 @@ www.wickes.co.uk##.cookies-policy__inner
 
 www.paypal.com###gdprCookieContent_wrapper
 
+www.wxcharts.com##.cc_banner
 
 www.oliverbonas.com##.pos-relative.bg-col-w.p-a.w-12
 www.oliverbonas.com##main-overlay
@@ -131,3 +136,11 @@ www.entrepreneur.com###noticepolicy
 www.radiotimes.com##.js-ad-banner-container
 
 checkmk.com###checkmkCookieNotice
+
+www.patchplants.com##.cookiebanner
+
+www.nu.nl##.container
+
+ico.org.uk###ccc-content
+ico.org.uk###ccc-overlay
+ico.org.uk###ccc-module
