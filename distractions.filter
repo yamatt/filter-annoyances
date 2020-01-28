@@ -1,0 +1,10 @@
+! Title: yaMatt Annoyances (Distractions)
+! Expires: 1 days
+! Issue tracker: https://github.com/yamatt/filter-annoyances/issues
+! License: CC0
+
+www.theguardian.com##body
+www.reddit.com##body
+
+stackoverflow.com###hot-network-questions
+stackexchange.com###hot-network-questions

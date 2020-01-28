@@ -25,6 +25,12 @@ This filter list is specific to particular websites. This will be a much larger 
 
 This filter list is designed to work on as many sites as possible, but is likely to be less accurate and as a result may have some unintended consequences.
 
+### Distractions
+
+[[direct link]](https://yamatt.github.io/filter-annoyances/distractions.filter)
+
+This is a personal filter designed to remove distractions and dark patterns from websites that keep calling me back. Because of the nature this is purely personal and not general use.
+
 ## Contribute
 
 [Please help](https://github.com/yamatt/filter-annoyances) by reporting when filters cause issues, or sites that you want to see added.
