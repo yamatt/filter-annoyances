@@ -7,3 +7,5 @@
 ##[id*=cookie]
 ##[id*=gdpr]
 ##body{ overflow-y: auto !important; }
+
+##.cc_banner
