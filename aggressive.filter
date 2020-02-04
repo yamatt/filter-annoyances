@@ -6,6 +6,11 @@
 ! Cookie, GDPR and Privacy modals
 ##[id*=cookie]
 ##[id*=gdpr]
+##[class*=cookie]
+##[class*=gdpr]
+##[class*=optanon-alert-box]
 ##body{ overflow-y: auto !important; }
+
+###_evidon-banner
 
 ##.cc_banner
