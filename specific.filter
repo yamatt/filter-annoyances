@@ -59,11 +59,14 @@ www.ikea.com##.toast
 
 www.schuh.co.uk###cookieConsent
 
-www.theguardian.com##.js-site-message-inner.site-message__inner
+||theguardian.com##.js-site-message-inner.site-message__inner
 
 new.enfield.gov.uk###CybotCookiebotDialogBody
 
 www.urbandictionary.com##.cc-banner
+
+www.howtogeek.com##.overlay-inner
+www.howtogeek.com##.email-overlay
 
 opensource.com##.pane-bean-email-capture
 
@@ -80,6 +83,12 @@ www.realtimetrains.co.uk##.cookie-notice
 suprafootwear.co.uk##.cc-type-opt-in
 
 github.com##.signup-prompt
+
+www.newsguardtech.com##.optanon-alert-box-wrapper
+
+developer.mozilla.org##.notification
+
+techzone.vmware.com###_evidon_banner
 
 www.metoffice.gov.uk##.as-oil-content-overlay
 
@@ -109,7 +118,9 @@ m.facebook.com###mobile_login_bar
 
 www.argos.co.uk##.privacy-prompt-wrapper
 
+! css over-ride doesn't appear to be working
 www.timeout.com##.qc-cmp-ui-content
+www.timeout.com##body{ overflow-y: auto !important; }
 
 docs.aws.amazon.com##.awsui-alert
 
