@@ -38,8 +38,8 @@ www.digitalspy.com###_evidon-background
 
 www.techradar.com###cmp-container-id
 
-||wikipedia.org##.frb-nag
-||wikipedia.org###frb-nag
+wikipedia.org##.frb-nag
+wikipedia.org###frb-nag
 
 www.wickes.co.uk##.cookies-policy__inner
 
@@ -59,7 +59,7 @@ www.ikea.com##.toast
 
 www.schuh.co.uk###cookieConsent
 
-||theguardian.com##.js-site-message-inner.site-message__inner
+theguardian.com##.js-site-message-inner.site-message__inner
 
 new.enfield.gov.uk###CybotCookiebotDialogBody
 
@@ -74,7 +74,7 @@ www.works-hub.com##.tracking-popup
 
 hakkasan.com###cookies
 
-||7digital.com##.notice-cookie
+7digital.com##.notice-cookie
 
 devdocs.io##._notif
 
@@ -102,10 +102,10 @@ track.dhlparcel.co.uk##.cookies
 hackaday.io##.cookie-banner
 hackaday.com##.cookie-notifications
 
-||wordpress.com###eu-cookie-law
-||wordpress.com###actionbar
+wordpress.com###eu-cookie-law
+wordpress.com###actionbar
 
-||blogspot.com###cookieChoiceInfo
+blogspot.com###cookieChoiceInfo
 
 www.scottadamssays.com##.cookie-choices-info
 
@@ -132,7 +132,7 @@ www.airbnb.co.uk##.optanon-alert-box-bg
 www.chowhound.com###onetrust-banner-sdk
 www.chowhound.com##.fade-in
 
-||camelcamelcamel.com###cmp-ui-iframe
+camelcamelcamel.com###cmp-ui-iframe
 
 www.thenorthface.co.uk##.cookie-policy
 
@@ -144,7 +144,7 @@ www.nationalgeographic.com##.js_ck_banner
 
 aws.amazon.com##.mo-row
 
-||gsmarena.com##.qc-cmp-ui-container
+gsmarena.com##.qc-cmp-ui-container
 
 back7.co##.sqs-cookie-banner-v2
 
