@@ -12,5 +12,6 @@
 ##body{ overflow-y: auto !important; }
 
 ###_evidon-banner
+###_evidon-background
 
 ##.cc_banner
