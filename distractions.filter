@@ -3,9 +3,8 @@
 ! Issue tracker: https://github.com/yamatt/filter-annoyances/issues
 ! License: CC0
 
-www.theguardian.com###body
-www.reddit.com###body
-news.google.com###body
+www.theguardian.com##body
+www.reddit.com##body
 
 stackoverflow.com###hot-network-questions
 stackexchange.com###hot-network-questions
