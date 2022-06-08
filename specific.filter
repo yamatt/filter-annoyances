@@ -6,8 +6,6 @@
 
 alternativeto.net##.iubenda-cs-content
 
-www.amazon.co.uk###sp-cc
-
 hub.docker.com###truste-consent-content
 
 docs.gitlab.com###CybotCookiebotDialog
@@ -44,10 +42,12 @@ www.digitalspy.com###_evidon-banner
 www.digitalspy.com###_evidon-background
 
 www.techradar.com###cmp-container-id
+www.techradar.com##.middle-container-stick.middle-container
 
 wikipedia.org##.frb-nag
 wikipedia.org###frb-nag
 wikipedia.org###frb-inline
+wikipedia.org###mw-content-text > .frb-rml-enabled.frb
 
 www.wickes.co.uk##.cookies-policy__inner
 
@@ -135,6 +135,9 @@ www.timeout.com##.qc-cmp-ui-content
 www.timeout.com##body{ overflow-y: auto !important; }
 
 docs.aws.amazon.com##.awsui-alert
+www.amazon.co.uk###sp-cc
+aws.amazon.com###awsccc-cb-c
+aws.amazon.com##.mo-row
 
 www.theguardian.com###js-subscription-banner-site-message
 www.theguardian.com###js-first-pv-consent-site-message
@@ -154,7 +157,6 @@ www.ebay.co.uk###gdpr-banner
 
 www.nationalgeographic.com##.js_ck_banner
 
-aws.amazon.com##.mo-row
 
 gsmarena.com##.qc-cmp-ui-container
 
@@ -185,3 +187,55 @@ fandom.com##.article-featured-video__on-scroll-video-wrapper
 
 www.wayfair.co.uk##.CookieComplianceContainer-veil
 www.wayfair.co.uk##.ResponsiveModal-wrap
+
+! not a typo
+www.marksandspencer.com##.navigation-cookiebbanner
+
+fandom.com##.article-featured-video__on-scroll-video-wrapper
+
+spectrum.ieee.org##.gdpr-cookie-wrapper
+
+spiritstore.co.uk##.cookiealert
+
+mountaingoatsoftware.com##.iubenda-cs-container
+
+cloud.google.com##devsite-snackbar
+
+www.formula1.com###cookie-banner
+
+www.humblebundle.com###_evidon_banner
+
+! slow loading javascript moving elements around the page
+m.imdb.com##.WatchBox__PrimaryWatchOptionButton-sc-1kx3ihk-0
+
+motowatch.com##.notice-inner
+
+store.ifixit.co.uk###banner-wrapper
+
+www.glowing-embers.co.uk#.cc-window
+
+boroughmarket.org.uk###CybotCookiebotDialog
+
+www.heals.com###cookie-notice
+
+wordpress.com###cmp-app-container
+
+www.ft.com##.o-cookie-message__outer
+
+www.zdnet.com##.ot-fade-in
+
+www.itv.com##.dialog.cp_dialog--show.cp_dialog
+
+www.waitrose.com##.container_cookie_popup
+
+eater.com##.m-privacy-consent
+
+www.digitalocean.com##._panel_1nv7e_1
+
+www.packer.io##.banner_root__1SZvg
+
+splunkbase.splunk.com###cookie-modal
+
+www.royalmail.com##.explicit-consent
+
+downdetector.com###_evidon-barrier-wrapper
