@@ -14,6 +14,9 @@ stackexchange.com###hot-network-questions
 
 www.youtube.com##ytd-watch-next-secondary-results-renderer
 i.ytimg.com/an_webp
+www.youtube.com##.ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-reel-shelf-renderer
+
 
 twitch.tv##+js(twitch-videoad)
 
