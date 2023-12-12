@@ -135,6 +135,8 @@ www.argos.co.uk##.privacy-prompt-wrapper
 ! css over-ride doesn't appear to be working
 www.timeout.com##.qc-cmp-ui-content
 www.timeout.com##body{ overflow-y: auto !important; }
+www.timeout.com##.qc-cmp2-container
+www.timeout.com###popup-newsletter
 
 docs.aws.amazon.com##.awsui-alert
 www.amazon.co.uk###sp-cc
