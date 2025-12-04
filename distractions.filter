@@ -22,7 +22,10 @@ twitch.tv##+js(twitch-videoad)
 www.independent.co.uk##.video-sticky-video
 
 ! Block BBC except /food and subpaths
-www.bbc.co.uk##body:matches-path(/^(?!\/food(?:\/|$))/)
-! Block Reddit except /r/* subpaths  
-www.reddit.com##body:matches-path(/^(?!\/r\/)/)
+@@||www.bbc.co.uk/food^
+||www.bbc.co.uk^
+
+! Block Reddit except /r/* subpaths
+@@||www.reddit.com/r/^
+||www.reddit.com^
 
