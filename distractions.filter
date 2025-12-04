@@ -5,7 +5,6 @@
 ! License: CC0
 
 www.theguardian.com##body
-www.reddit.com##body
 news.google.com##body
 news.google.com##aside
 
@@ -22,4 +21,11 @@ twitch.tv##+js(twitch-videoad)
 
 www.independent.co.uk##.video-sticky-video
 
-www.bbc.co.uk##body
+! Block BBC except /food and subpaths
+@@||www.bbc.co.uk/food^
+||www.bbc.co.uk^
+
+! Block Reddit except /r/* subpaths
+@@||www.reddit.com/r/^
+||www.reddit.com^
+
