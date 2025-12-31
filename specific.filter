@@ -252,3 +252,5 @@ www.reddit.com##body:style(overflow-y:auto!important;)
 
 uksnowmap.com###panel-modal
 uksnowmap.com###app-panel > .panel-content
+
+dash.cloudflare.com###onetrust-consent-sdk
