@@ -249,3 +249,6 @@ downdetector.com###_evidon-barrier-wrapper
 
 www.reddit.com##shreddit-experience-tree.theme-beta
 www.reddit.com##body:style(overflow-y:auto!important;)
+
+uksnowmap.com###panel-modal
+uksnowmap.com###app-panel > .panel-content
