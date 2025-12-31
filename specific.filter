@@ -45,9 +45,11 @@ www.techradar.com###cmp-container-id
 www.techradar.com##.middle-container-stick.middle-container
 
 wikipedia.org##.frb-nag
+wikipedia.org##.frb-message
 wikipedia.org###frb-nag
 wikipedia.org###frb-inline
 wikipedia.org###mw-content-text > .frb-rml-enabled.frb
+wikpedia.org##.overlay-banner-main
 
 www.wickes.co.uk##.cookies-policy__inner
 
