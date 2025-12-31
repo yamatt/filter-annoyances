@@ -190,6 +190,8 @@ m.imdb.com##.hWgATh
 m.imdb.com##.mini-watchbox
 
 fandom.com##.article-featured-video__on-scroll-video-wrapper
+fandom.com##.page__right-rail
+fandom.com##.top-ads-container
 
 www.wayfair.co.uk##.CookieComplianceContainer-veil
 www.wayfair.co.uk##.ResponsiveModal-wrap
@@ -197,7 +199,6 @@ www.wayfair.co.uk##.ResponsiveModal-wrap
 ! not a typo
 www.marksandspencer.com##.navigation-cookiebbanner
 
-fandom.com##.article-featured-video__on-scroll-video-wrapper
 
 spectrum.ieee.org##.gdpr-cookie-wrapper
 
