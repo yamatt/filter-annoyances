@@ -26,6 +26,9 @@ www.independent.co.uk##.video-sticky-video
 ||www.bbc.co.uk^
 
 ! Block Reddit except /r/* subpaths
-@@||www.reddit.com/r/^
 ||www.reddit.com^
+
+! Block Twitter/X
+||x.com^
+||twitter.com^
 
